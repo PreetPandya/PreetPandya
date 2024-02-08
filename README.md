@@ -38,3 +38,16 @@ Hello, I'm Preet Pandya, a passionate and ambitious junior software developer on
 <br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/PreetPandya/React-BMI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PreetPandya&repo=React-BMI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/PreetPandya/Auth-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PreetPandya&repo=Auth-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=preetpandya&label=Profile%20views&color=0e75b6&style=flat" alt="preetpandya" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetpandya" alt="preetpandya" /></a> </p
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preetpandya&show_icons=true&locale=en&layout=compact" alt="preetpandya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preetpandya&show_icons=true&locale=en" alt="preetpandya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetpandya&" alt="preetpandya" /></p>
