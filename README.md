@@ -35,6 +35,6 @@ Hello, I'm Preet Pandya, a passionate and ambitious junior software developer on
 
 <div width="100%" align="center"><a href="https://github.com/PreetPandya/ReactApp-TicTacToe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PreetPandya&repo=ReactApp-TicTacToe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/PreetPandya/Investment-Calc-React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PreetPandya&repo=Investment-Calc-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br />
 
-<br /><br />
+<br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/PreetPandya/React-BMI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PreetPandya&repo=React-BMI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/PreetPandya/Auth-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PreetPandya&repo=Auth-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
