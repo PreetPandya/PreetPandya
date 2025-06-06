@@ -30,11 +30,3 @@ Hello, I'm Preet Pandya, a passionate and ambitious junior software developer on
 <a href="http://www.github.com/PreetPandya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PreetPandya&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/PreetPandya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreetPandya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/PreetPandya/Weather-React-App.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PreetPandya&repo=Weather-React-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/PreetPandya/ReactApp-TicTacToe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PreetPandya&repo=ReactApp-TicTacToe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
-
-
-
-<div width="100%" align="center"><a href="https://github.com/PreetPandya/React-BMI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PreetPandya&repo=React-BMI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/PreetPandya/Auth-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PreetPandya&repo=Auth-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
